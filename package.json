@@ -1,10 +1,9 @@
 {
-  "name": "node-xml-json",
+  "name": "xml-to-json",
   "version": "0.0.0",
   "description": "parse xml to json",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
