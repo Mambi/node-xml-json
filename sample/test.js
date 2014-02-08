@@ -2,7 +2,7 @@ var xml2json = require('../')
 
 xml2json({
 	input: './sample/sample2.xml',
-	output: './test.json'
+	output: './sample/test.json'
 }, function(err, result) {
   
 	if(err) {
