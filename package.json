@@ -1,9 +1,11 @@
 {
   "name": "xml-to-json",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "parse xml to json",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+  	"test": "./node_modules/.bin/mocha"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/DataGarage/node-xml-json"
