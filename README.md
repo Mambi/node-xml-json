@@ -1,5 +1,7 @@
 # node-xml-json
 
+[![Build Status](https://travis-ci.org/DataGarage/node-xml-json.png?branch=master)](https://travis-ci.org/DataGarage/node-xml-json)
+
 parse xml to json
 
 ## Install
